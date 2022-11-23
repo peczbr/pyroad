@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 22 15:37:13 2022
-
 @author: pecz
+#DATA-BASE: https://www.football-data.co.uk/brazil.php
+#DATA: BRAZIL FOOTBALL LEAGUE DATA - 2012 to 2022 records
+#The CODE make some DATA modifications and brought the DATA to an brazillian base in EXCEL
+#UTC to UTC-3 (America/Sao_Paulo)
 """
 import pandas as pd
 import datetime as dt
